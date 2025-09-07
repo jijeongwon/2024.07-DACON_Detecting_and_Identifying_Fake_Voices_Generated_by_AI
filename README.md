@@ -1,4 +1,4 @@
-# 2024.07-Detecting_and_Identifying_Fake_Voices_Generated_by_AI
+# [2024.07_DACON] Detecting_and_Identifying_Fake_Voices_Generated_by_AI
 
 ---
 
